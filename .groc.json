@@ -1,0 +1,5 @@
+{
+	"glob": [ "scripts/*.rb", "README.md" ],
+	"github": false,
+	"repository-url": "https://github.com/erewhon"
+}

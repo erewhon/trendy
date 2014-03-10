@@ -1,0 +1,9 @@
+sample.html
+*.sublime-*
+/scripts/*.html
+/scripts/*.Rout
+/docs/*
+/doc/*
+.RD*
+.Rhistory
+*.orig
