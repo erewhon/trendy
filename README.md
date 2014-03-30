@@ -56,7 +56,8 @@ Tale of 2 servers
 
 # License
 
-See UNLICENSE.  Basically, don't call me, I won't call you.
+Since there may or may not be code shared with df0-pred, we'll just go with it
+being under the same terms for now...
 
 # References
 
