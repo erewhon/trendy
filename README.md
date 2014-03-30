@@ -1,4 +1,8 @@
 # Trendy
+
+WARNING: the below is very raw.  Not really for public consumption until I have
+some time to clean things up.
+
 ## Fashionable, yet trendy
 
 Trendy is a simple disk trend reporter and alerter. I created it as a
@@ -14,7 +18,7 @@ There are 2 phases:
 - collection
 - trend analysis
 
-Collectin consists of gathering the statistics.  Right now, it's a fairly
+Collection consists of gathering the statistics.  Right now, it's a fairly
 small, simple wrapper around Ruby.  You can have it collect statistics for a
 given machine only, or you can have it run against multiple machines.  By
 default, it is in "localhost" mode.  Eventually, there will be a way of
