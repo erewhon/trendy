@@ -1,7 +1,10 @@
 # Trendy
 
-WARNING: the below is very raw.  Not really for public consumption until I have
-some time to clean things up.
+WARNING: the below is very raw.  Not really for public consumption
+until I have some time to clean things up.  (I wrote the original a
+few years ago in a combination of R and Ruby.  I'm going to write a
+couple of new implementations in a single language, which hopefully
+should make it more straightforward to use.)
 
 ## Fashionable, yet trendy
 
